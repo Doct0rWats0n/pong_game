@@ -1,6 +1,10 @@
 # pong_game
 A classic pong game written in python 3 for 2 players
 
+Control buttons:
+Left-side player: W - up, S - down
+Right-side player: ↑ - up, ↓ - down
+
 ######################################################
 
 Ideas for expansion:
