@@ -8,7 +8,7 @@ Right-side player: ↑ - up, ↓ - down
 ######################################################
 
 Ideas for expansion:
-1) Move the project to PyQt
+1) Move the project to PyQt5
 2) Add restart
 3) Add multiple players
 4) Add online multiplayer
