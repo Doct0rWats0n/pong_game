@@ -2,6 +2,7 @@
 A classic pong game written in python 3 for 2 players
 
 ######################################################
+
 Ideas for expansion:
 1) Move the project to PyQt
 2) Add restart
