@@ -132,8 +132,8 @@ def move_obj(obj, pl1, pl2):
 
 
 def main():
-    life_time = int(input('Up to how many wins will the game continue?\n'))
-    while life_time > player_wins and life_time > sec_player_wins:
+    # life_time = int(input('Up to how many wins will the game continue?\n'))
+    while True:
         # Frames per second
         time.tick(FPS)
         # Checking out of the game
